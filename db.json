@@ -4,7 +4,7 @@
       "id": 1234,
       "nome": "Smartphone Modelo X",
       "descricao": "Um smartphone com câmera de alta resolução.",
-      "preco": 2500.00,
+      "preco": 2100.00,
       "disponibilidade": "em_estoque",
       "categoria": "eletronicos"
     }
